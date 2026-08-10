@@ -30,7 +30,6 @@ print("Student name:", student["name"])
 # Add a new key-value pair
 student["city"] = "Aurangabad"
 
-
 # 4. Set
 # A set is unordered and stores only unique values.
 numbers = {1, 2, 3, 4, 4, 5}
